@@ -6,6 +6,10 @@
         },
         {
             "type": "single",
+            "resource": "ulg_backpack:rainbow2"
+        },
+        {
+            "type": "single",
             "resource": "ulg_backpack:mouldy"
         },
         {
@@ -151,11 +155,6 @@
         {
             "type": "single",
             "resource": "ulg_backpack:yellow"
-        },
-        {
-            "type": "single",
-            "resource": "mazeymoos:iron_ticket"
-        },
-
+        }
     ]
 }
