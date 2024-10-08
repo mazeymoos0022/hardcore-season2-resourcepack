@@ -21,11 +21,5 @@
     "ulg.alert.nodoublebackpack": "Non puoi mettere uno zaino in uno zaino!",
     "ulg.alert.changedinventory": "L'inventario dello zaino e l'inventario del player si sono ora scambiati...",
     "ulg.alert.PACKBUG1": "Non chiudere lo zaino così! Torna in gioco e prendi l'item dalla seconda mano",
-    "ulg.alert.checkyourinventory": "Controlla il tuo inventario! Ora stai usando l'inventario dello zaino.",
-    "ulg.alert.nobundlesinside" : "Il sacchetto è troppo grande, non può entrare nello zaino!",
-    "ulg.alert.noshboxesinside": "Una intera Shulker Box in uno zaino? Ma così non puoi chiuderlo.",
-    "ulg.alert.auto_closed": "Lo zaino si è richiuso.",
-    "ulg.alert.still_open": "Non puoi piazzare lo zaino lì, è ancora aperto!",
-    "ulg.alert.oldversionbackpack": "Questo zaino si è ammuffito. Come recuperarlo? Clicca qui.",
-    "ulg.lore.oldversionbackpack": "Questo zaino è vecchio. Per aprirlo, andrà lavorato su una crafting table."
+    "ulg.alert.checkyourinventory": "Controlla il tuo inventario! Ora stai usando l'inventario dello zaino."
 }

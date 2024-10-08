@@ -51,6 +51,6 @@
         {"predicate": {"custom_model_data":822344}, "model": "ulg_backpack:mouldy"},
         {"predicate": {"custom_model_data":822345}, "model": "ulg_backpack:mouldy_opened"},
         {"predicate": {"custom_model_data":822346}, "model": "ulg_backpack:vintage"},
-        {"predicate": {"custom_model_data":822347}, "model": "ulg_backpack:vintage_opened"},
+        {"predicate": {"custom_model_data":822347}, "model": "ulg_backpack:vintage_opened"}
 	]
 }
