@@ -1,0 +1,16 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_helmet",
+        "layer1": "item/leather_helmet_overlay"
+    },
+ 
+    "overrides":[
+   
+     {"predicate": {"custom_model_data":1}, "model":"c/copper_helm"},
+     {"predicate": {"custom_model_data":2}, "model":"c/emerald_helmet"},
+     {"predicate": {"custom_model_data":3}, "model":"c/obsidian_helmet"},
+     {"predicate": {"custom_model_data":4}, "model":"c/redstone_helmet"},
+     {"predicate": {"custom_model_data":5}, "model":"c/sculk_helmet"}
+    ]
+}

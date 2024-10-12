@@ -1,0 +1,16 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_chestplate",
+        "layer1": "item/leather_chestplate_overlay"
+    },
+ 
+    "overrides":[
+   
+     {"predicate": {"custom_model_data":1}, "model":"c/copper_tunic"},
+     {"predicate": {"custom_model_data":2}, "model":"c/emerald_tunic"},
+     {"predicate": {"custom_model_data":3}, "model":"c/obsidian_tunic"},
+     {"predicate": {"custom_model_data":4}, "model":"c/redstone_tunic"},
+     {"predicate": {"custom_model_data":5}, "model":"c/sculk_tunic"}
+    ]
+}
