@@ -1,8 +1,7 @@
 {
   "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/iron_nugget"
-  },
-	"overrides": [
-		{"predicate":{"custom_model_data":1}, "model":"mazeymoos:items/ticket}]
+  "textures": {"layer0": "minecraft:item/iron_nugget"},
+  "overrides": [
+    {"predicate": {"custom_model_data": 6}, "model": "mazeymoos:item/ticket"}
+  ]
 }
